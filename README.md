@@ -6,6 +6,10 @@
 
 目前已开通了推送频道，可自行点击查看推送效果：https://t.me/hostloc2tg
 
+更新说明：
+	1. 修改了获取了网站内容的方式
+	2. 推送内容采用了markdown语法
+
 ###### 使用说明：
 
 脚本基于python3，依赖环境requests，lxml，torequests，机器人每15秒更新一次（可自行修改）
