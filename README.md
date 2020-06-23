@@ -9,10 +9,11 @@
 更新说明：
 	1. 修改了获取了网站内容的方式
 	2. 推送内容采用了markdown语法
+	3. 推送内容部分预览
 
 ###### 使用说明：
 
-脚本基于python3，依赖环境requests，lxml，torequests，机器人每15秒更新一次（可自行修改）
+脚本基于python3，依赖环境requests，lxml，torequests等，机器人每15秒更新一次（可自行修改）
 
 需自行修改代码内容：第59行bot api需要改为自己bot api，115行修改推送id
 
